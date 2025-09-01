@@ -23,7 +23,7 @@ Paper deadline: 30 March 23:59
 	  
 ![Pasted image 20250206104451.png](../Pasted%20image%2020250206104451.png)  
 # Lecture notes  
-- [Lecture 1](Lecture%201.md)  
+- [Lecture 1](./Lecture%201.md)  
 - [Lecture 2, Digital Forensics as a Service](Lecture%202,%20Digital%20Forensics%20as%20a%20Service.md)  
 - [Social Engineering](Social%20Engineering.md)  
 - [Memory Forensics](Memory%20Forensics.md)  
